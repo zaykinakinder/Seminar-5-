@@ -1,0 +1,15 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/bin/Debug/net6.0/dop zadacha
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/bin/Debug/net6.0/dop zadacha.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/bin/Debug/net6.0/dop zadacha.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/bin/Debug/net6.0/dop zadacha.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/bin/Debug/net6.0/dop zadacha.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/refint/dop zadacha.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/dop zadacha.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/dop zadacha/obj/Debug/net6.0/ref/dop zadacha.dll

@@ -1,0 +1,15 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /bin/Debug/net6.0/sherenga
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /bin/Debug/net6.0/sherenga.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /bin/Debug/net6.0/sherenga.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /bin/Debug/net6.0/sherenga.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /bin/Debug/net6.0/sherenga.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/refint/sherenga.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/sherenga.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/sherenga /obj/Debug/net6.0/ref/sherenga.dll

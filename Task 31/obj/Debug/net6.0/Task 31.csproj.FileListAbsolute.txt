@@ -1,0 +1,5 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 31/obj/Debug/net6.0/Task 31.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 31/obj/Debug/net6.0/Task 31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 31/obj/Debug/net6.0/Task 31.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 31/obj/Debug/net6.0/Task 31.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 31/obj/Debug/net6.0/Task 31.csproj.CoreCompileInputs.cache
