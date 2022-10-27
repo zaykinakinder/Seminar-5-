@@ -1,0 +1,15 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/bin/Debug/net6.0/Task 47
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/bin/Debug/net6.0/Task 47.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/bin/Debug/net6.0/Task 47.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/bin/Debug/net6.0/Task 47.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/bin/Debug/net6.0/Task 47.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/refint/Task 47.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/Task 47.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 47/obj/Debug/net6.0/ref/Task 47.dll

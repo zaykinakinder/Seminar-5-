@@ -1,0 +1,15 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/bin/Debug/net6.0/Task 62
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/bin/Debug/net6.0/Task 62.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/bin/Debug/net6.0/Task 62.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/bin/Debug/net6.0/Task 62.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/bin/Debug/net6.0/Task 62.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/refint/Task 62.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/Task 62.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 5 c+/Task 62/obj/Debug/net6.0/ref/Task 62.dll
